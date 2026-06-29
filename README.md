@@ -4,10 +4,6 @@
 
 ## 📥 Download e Instalação
 
-### 1. Baixar o APK
-
-Acesse a [página de releases](https://github.com/seu-usuario/BaterySaver/releases/latest) e baixe o arquivo `BaterySaver-release.apk`.
-
 ### 2. Desativar o Play Protect
 
 > ⚠️ **IMPORTANTE:** O Google Play Protect bloqueia a instalação de apps fora da Play Store.
