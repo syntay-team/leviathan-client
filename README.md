@@ -4,6 +4,8 @@
 
 ## 📥 Download e Instalação
 
+Acesse a [página de releases](https://github.com/syntay-team/baterrysaver/tags) e baixe o arquivo `baterrysaver-v*.*.apk`.
+
 ### 2. Desativar o Play Protect
 
 > ⚠️ **IMPORTANTE:** O Google Play Protect bloqueia a instalação de apps fora da Play Store.
